@@ -1,0 +1,13 @@
+[project]
+name = "cellcontext"
+version = "0.1.0"
+description = "Context-aware single-cell perturbation prediction, with a baseline honest enough to beat."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Ahmed Doghri"}]
+keywords = ["machine-learning", "research", "bioinformatics", "benchmark"]
+
+[project.urls]
+Homepage = "https://adoghri.com"
+Repository = "https://github.com/ahmeddoghri/cellcontext"
